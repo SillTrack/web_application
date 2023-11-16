@@ -1,1 +1,3 @@
 # web_application
+
+we will write web application called "Learning Log" with which the user can keep a journal of topics of interest to him and create journal entries while studying each topic. The "Learning Log" home page describes the site and invites the user to register or maintain their login credentials. After successful login, the user will be able to create new topics, add new posts, read and edit existing posts. 
